@@ -1,0 +1,227 @@
+{
+  "buyorsell": {
+    "buy_create": {
+      "coordinates": "Coordinates",
+      "details": "Details"
+    },
+    "intro": "If you want to buy, sell or rent a property, please complete and send us the application form below and we will contact you as soon as possible.",
+    "sell_a_property": "Sell a property",
+    "to_buy": "To buy",
+    "to_rent": "To rent",
+    "to_sell": "To sell"
+  },
+  "contact": {
+    "contact_create": {
+      "contact_form": "Contact form",
+      "feedback_message_1": "An error has occurred!",
+      "feedback_message_2": "Please retry later.",
+      "get_informations": "Get informations",
+      "message": "Message",
+      "message_sent": "Your message has been sent.",
+      "object": "Object",
+      "reference_number": "Reference number: ",
+      "will_answer_client": "We will answer you as soon as possible!"
+    }
+  },
+  "footer": {
+    "all_rights_reserved": "All rights reserved.",
+    "powered_by": "Powered by ",
+    "newsletter": {
+      "create": {
+        "information_updated_message_1": "You are already subscribed.",
+        "information_updated_message_2": "Your information has been modified.",
+        "reactivated_message_1": "Your subscription has been reactivated.",
+        "reactivated_message_2": "Welcome back to our newsletter.",
+        "title": "Join our newsletter",
+        "welcome_message_1": "Welcome to our newsletter.",
+        "welcome_message_2": "And thank you for subscribing!"
+      }
+    }
+  },
+  "funding": {
+    "email_sent": "The email is sent with success.",
+    "funding": "Funding",
+    "no_funding": "There is no item to show!",
+    "send": "Send",
+    "server_error": "An error has occurred. Please try later."
+  },
+  "global": {
+    "cancel": "Cancel",
+    "city": "City",
+    "email": "Email",
+    "field_required": "This field is required!",
+    "first_name": "First name: ",
+    "invalid_email": "Please enter a valid email!",
+    "invalid_phone": "Please enter a valid number phone!",
+    "last_name": "Last name: ",
+    "loading": "Loading...",
+    "no": "No",
+    "phone": "Phone number",
+    "search_placeholder": "Search...",
+    "select_bathrooms_number_choice_0": "Select a number",
+    "select_bedrooms_number_choice_0": "Select a number",
+    "select_building_type_choice_0": "Select a type",
+    "select_choice_0": "Select",
+    "select_city_choice_0": "Select city",
+    "select_construction_age_choice_0": "Select an age",
+    "select_price_ranges_choice_0": "Not specified",
+    "select_property_type_choice_0": "Select a type",
+    "submit": "Submit",
+    "title_page": {
+      "contact": "Contact",
+      "funding": "Funding",
+      "home": "Home page",
+      "properties": "Properties",
+      "testimonial": "Testimonials",
+      "useful_links": "Useful links"
+    },
+    "yes": "Yes"
+  },
+  "header": {
+    "languages": {
+      "arabic": "Arabic",
+      "english": "English",
+      "french": "French"
+    },
+    "nav": {
+      "buy": "BUY",
+      "buy_sell": "BUY/SELL",
+      "contact": "Contact",
+      "funding": "Funding",
+      "home": "Home",
+      "properties": "Properties",
+      "rent": "RENT",
+      "sell": "SELL",
+      "testimonial": "Testimonial",
+      "useful_links": "Useful links"
+    }
+  },
+  "home": {
+    "bottom_side_1": {
+      "title": "",
+      "p1": "I am a real estate broker, specialist in sales and investments in the greater Montreal area for domestic and international investors, whether they are real estate income for personal purposes, for real estate speculation or to operate a company.",
+      "p2": "I am dedicated to developing the Montréal market abroad. I accompany my clients to find them the strategic location and I offer them a turnkey project. My clients benefit from my long-term support and commitment.",
+      "p3": "Thanks to my knowledge of the Greater Montreal Metropolitan Area market and my international reputation, I can offer you, as a consultant, my services in sales, leasing, acquisition of real estate assets, site research, design projects and recommendations. It is also thanks to my numerous partnerships and relationships that I can support my clients until the realization of their projects."
+    },
+    "bottom_side_2": {
+      "title": "",
+      "p1": "I am a real estate broker, specialist in sales and investments in the greater Montreal area for domestic and international investors, whether they are real estate income for personal purposes, for real estate speculation or to operate a company.",
+      "p2": "I am dedicated to developing the Montréal market abroad. I accompany my clients to find them the strategic location and I offer them a turnkey project. My clients benefit from my long-term support and commitment.",
+      "p3": "Thanks to my knowledge of the Greater Montreal Metropolitan Area market and my international reputation, I can offer you, as a consultant, my services in sales, leasing, acquisition of real estate assets, site research, design projects and recommendations. It is also thanks to my numerous partnerships and relationships that I can support my clients until the realization of their projects."
+    },
+    "bottom_side_3": {
+      "title": "",
+      "p1": "I am a real estate broker, specialist in sales and investments in the greater Montreal area for domestic and international investors, whether they are real estate income for personal purposes, for real estate speculation or to operate a company.",
+      "p2": "I am dedicated to developing the Montréal market abroad. I accompany my clients to find them the strategic location and I offer them a turnkey project. My clients benefit from my long-term support and commitment.",
+      "p3": "Thanks to my knowledge of the Greater Montreal Metropolitan Area market and my international reputation, I can offer you, as a consultant, my services in sales, leasing, acquisition of real estate assets, site research, design projects and recommendations. It is also thanks to my numerous partnerships and relationships that I can support my clients until the realization of their projects."
+    },
+    "title": {
+      "title_1": "Specialty: real estate investment advisor",
+      "title_2": ""
+    }
+  },
+  "map_container": {
+    "marker_icon": "Marker icon"
+  },
+  "notFound": {
+    "message1": "Page not found",
+    "message2": "Home page",
+    "title": "Page Not Found"
+  },
+  "pdf_container": {
+    "download": "Download",
+    "print": "Print"
+  },
+  "properties": {
+    "advanced_filter": "Advanced filter",
+    "annual_income": "Annual income",
+    "apartments_number": "Apartments number",
+    "bathrooms_number": "Bathrooms number",
+    "bedrooms_number": "Bedrooms number",
+    "building_type": "Building type",
+    "card_item": {
+      "bathrooms": {
+        "one": "1 bathroom",
+        "two": " bathrooms",
+        "more_than_two": "More than 2 bathrooms"
+      },
+      "bedrooms": {
+        "one": "1 bedroom",
+        "two_four": " bedrooms",
+        "more_than_foor": "More than 4 bedrooms"
+      },
+      "dining_room": "Dining room",
+      "fireplace": "Fireplace",
+      "garage": "Garage",
+      "garden": "Garden",
+      "other_characteristics": "Other characteristics",
+      "swimming_pool": "Swimming pool"
+    },
+    "catalog": "Catalog",
+    "ccd": "Ccd",
+    "click_to_download": "Click to download",
+    "construction_age": "Construction age",
+    "cost_per_housing": "Cost per housing (CPH)",
+    "down_payment_required": "Down payment required",
+    "economic_value": "Economic value",
+    "gross_revenue_multiplier": "Gross revenue multiplier (GRM)",
+    "has_dining_room": "With dining room?",
+    "has_fireplace": "With fireplace?",
+    "has_garage": "With garage?",
+    "has_garden": "With garden?",
+    "has_swimming_pool": "With swimming pool?",
+    "housing_descriptions": "Housing descriptions",
+    "maximum_loan": "Maximum loan",
+    "net_income_multiplier": "Net income multiplier (NIM)",
+    "occupation_date": "Occupation date",
+    "overall_rate_update": "Overall rate of update (ORU)",
+    "price_ranges": "Price ranges",
+    "property_type": "Property type",
+    "search_result": {
+      "bathrooms_number": "Number of bathrooms: ",
+      "bedrooms_number": "Number of bedrooms: ",
+      "message_no_items_exist": "No item exists for now, thank you for visiting us once we solve the problem. Thank you.",
+      "message_no_result_matches": "Sorry, we have no properties that match these criteria:",
+      "message_try_with_other_criteria": "Try with other criteria!",
+      "nothing_found": "Nothing found!",
+      "building_type": "Building type: ",
+      "construction_age": "Construction age: ",
+      "price_ranges": "Price ranges: ",
+      "property_type": "Property type: ",
+      "searched_city": "Searched City: ",
+      "searched_word": "Searched word: ",
+      "status": "Status: ",
+      "with_dining_room": "With dining room.",
+      "with_fireplace": "With fireplace.",
+      "with_garage": "With garage.",
+      "with_garden": "With garden.",
+      "with_swimming_pool": "With swimming pool."
+    },
+    "status": "Status"
+  },
+  "property": {
+    "description": "Description",
+    "general_information": "General information",
+    "lot_size": "Lot size",
+    "print_version": "Print version",
+    "price": "Price",
+    "print_property": "Print property",
+    "property": "Property",
+    "request_for_information": "Request for information"
+  },
+  "property_details_print": {
+    "contact": "Contact",
+    "front_view_alt": "The front view of the Property",
+    "photos": "Photos",
+    "property_alt": "Property"
+  },
+  "testimonial": {
+    "add_testimonial": "Add a testimonial",
+    "no_testimonial": "There is no testimony for now!",
+    "testimonial": "Testimonial"
+  },
+  "useful_links": {
+    "no_useful_link": "There is any useful link for now!",
+    "guides": "Guides"
+  }
+}

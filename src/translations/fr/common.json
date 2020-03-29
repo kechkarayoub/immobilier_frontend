@@ -1,0 +1,227 @@
+{
+  "buyorsell": {
+    "buy_create": {
+      "coordinates": "Coordonnées",
+      "details": "Details"
+    },
+    "intro": "Si vous souhaitez acheter, vendre ou louer une propriété, complétez et envoyez-nous le formulaire de demande ci-dessous et nous vous contacterons dans les plus brefs délais.",
+    "sell_a_property": "Vendre une propriété",
+    "to_buy": "Acheter",
+    "to_rent": "Louer",
+    "to_sell": "Vendre"
+  },
+  "contact": {
+    "contact_create": {
+      "contact_form": "Formulaire de contact",
+      "feedback_message_1": "Une erreur est survenue!",
+      "feedback_message_2": "Veuillez réessayer ultérieurement.",
+      "get_informations": "Obtenir des informations",
+      "message": "Message",
+      "message_sent": "Votre message a été envoyé.",
+      "object": "Objet",
+      "reference_number": "Numéro de réference: ",
+      "will_answer_client": "Nous vous répondrons dans les meilleurs délais!"
+    }
+  },
+  "footer": {
+    "all_rights_reserved": "Tous les droits sont réservés.",
+    "powered_by": "Alimenté par ",
+    "newsletter": {
+      "create": {
+        "information_updated_message_1": "Vous êtes déjà abonné.",
+        "information_updated_message_2": "Vos informations ont été modifiées.",
+        "reactivated_message_1": "Votre abonnement a été réactivé.",
+        "reactivated_message_2": "Bienvenue à notre newsletter.",
+        "title": "Rejoignez notre newsletter",
+        "welcome_message_1": "Bienvenue à notre newsletter.",
+        "welcome_message_2": "Et merci pour votre inscription!"
+      }
+    }
+  },
+  "funding": {
+    "email_sent": "L'email est envoyé avec succés.",
+    "funding": "Financement",
+    "no_funding": "Il n'existe aucun element pour l'afficher!",
+    "send": "Envoyer",
+    "server_error": "Un erreur est survenu. Merci d'essayer ultérieurment."
+  },
+  "global": {
+    "cancel": "Annuler",
+    "city": "Ville",
+    "email": "Email",
+    "field_required": "Ce champ est obligatoire!",
+    "first_name": "Prénom: ",
+    "invalid_email": "Ce email est invalide!",
+    "invalid_phone": "Ce numéro est invalide!",
+    "last_name": "Nom: ",
+    "loading": "Chargement...",
+    "no": "Non",
+    "phone": "Numéro du téléphone:",
+    "search_placeholder": "Chercher...",
+    "select_bathrooms_number_choice_0": "Choisir un nombre",
+    "select_bedrooms_number_choice_0": "Choisir un nombre",
+    "select_building_type_choice_0": "Choisir un type",
+    "select_choice_0": "Choisir",
+    "select_city_choice_0": "Choisir une ville",
+    "select_construction_age_choice_0": "Choisir un age",
+    "select_price_ranges_choice_0": "Non précisé",
+    "select_property_type_choice_0": "Choisir un type",
+    "submit": "Soumettre",
+    "title_page": {
+      "contact": "Contactez-nous",
+      "funding": "Financement",
+      "home": "Page d'accueil",
+      "properties": "Propriétés",
+      "testimonial": "Témoignages",
+      "useful_links": "Liens utils"
+    },
+    "yes": "Oui"
+  },
+  "header": {
+    "languages": {
+      "arabic": "Arabe",
+      "english": "Anglais",
+      "french": "Français"
+    },
+    "nav": {
+      "buy": "Acheter",
+      "buy_sell": "Acheter/Vendre",
+      "contact": "Contactez-nous",
+      "funding": "Financement",
+      "home": "Accueil",
+      "properties": "Propriétés",
+      "rent": "LOCATION",
+      "sell": "Vendre",
+      "testimonial": "Témoignage",
+      "useful_links": "Liens utils"
+    }
+  },
+  "home": {
+    "bottom_side_1": {
+      "title": "",
+      "p1": "Je suis courtier immobilier, spécialiste en ventes et investissements dans la grande région métropolitaine de Montréal pour les investisseurs nationaux et internationaux, qu’il s’agisse d’immeubles à revenus à des fins personnelles, à des fins de spéculation immobilière ou pour y exploiter une entreprise.",
+      "p2": "Je me consacre au développement du marché montréalais à l’étranger. J’accompagne mes clients pour leur trouver l’emplacement stratégique et je leur offre un projet clé en main. Mes clients bénéficient de mon soutien et de mon engagement à long terme.",
+      "p3": "Grace à ma connaissance du marché dans la grande région métropolitaine de Montréal et à ma réputation internationale, je peux vous offrir, à titre d’expert-conseil, mes services en vente, location, acquisition d’actifs immobiliers, recherche de sites, conception de projets et recommandations. C’est de plus grâce à mes nombreux partenariats et relations que je peux accompagner mes clients jusqu’à la réalisation de leurs projets."
+    },
+    "bottom_side_2": {
+      "title": "",
+      "p1": "Je suis courtier immobilier, spécialiste en ventes et investissements dans la grande région métropolitaine de Montréal pour les investisseurs nationaux et internationaux, qu’il s’agisse d’immeubles à revenus à des fins personnelles, à des fins de spéculation immobilière ou pour y exploiter une entreprise.",
+      "p2": "Je me consacre au développement du marché montréalais à l’étranger. J’accompagne mes clients pour leur trouver l’emplacement stratégique et je leur offre un projet clé en main. Mes clients bénéficient de mon soutien et de mon engagement à long terme.",
+      "p3": "Grace à ma connaissance du marché dans la grande région métropolitaine de Montréal et à ma réputation internationale, je peux vous offrir, à titre d’expert-conseil, mes services en vente, location, acquisition d’actifs immobiliers, recherche de sites, conception de projets et recommandations. C’est de plus grâce à mes nombreux partenariats et relations que je peux accompagner mes clients jusqu’à la réalisation de leurs projets."
+    },
+    "bottom_side_3": {
+      "title": "",
+      "p1": "Je suis courtier immobilier, spécialiste en ventes et investissements dans la grande région métropolitaine de Montréal pour les investisseurs nationaux et internationaux, qu’il s’agisse d’immeubles à revenus à des fins personnelles, à des fins de spéculation immobilière ou pour y exploiter une entreprise.",
+      "p2": "Je me consacre au développement du marché montréalais à l’étranger. J’accompagne mes clients pour leur trouver l’emplacement stratégique et je leur offre un projet clé en main. Mes clients bénéficient de mon soutien et de mon engagement à long terme.",
+      "p3": "Grace à ma connaissance du marché dans la grande région métropolitaine de Montréal et à ma réputation internationale, je peux vous offrir, à titre d’expert-conseil, mes services en vente, location, acquisition d’actifs immobiliers, recherche de sites, conception de projets et recommandations. C’est de plus grâce à mes nombreux partenariats et relations que je peux accompagner mes clients jusqu’à la réalisation de leurs projets."
+    },
+    "title": {
+      "title_1": "Specialité: conseiller en investissement immobilier",
+      "title_2": ""
+    }
+  },
+  "map_container": {
+    "marker_icon": "Icône de marqueur"
+  },
+  "notFound": {
+    "message1": "Page non trouvée",
+    "message2": "Page d'accueil",
+    "title": "Page non trouvée"
+  },
+  "pdf_container": {
+    "download": "Télécharger",
+    "print": "Imprimer"
+  },
+  "properties": {
+    "advanced_filter": "Filtre avancé",
+    "annual_income": "Les revenus annuels",
+    "apartments_number": "Nombre des appartements",
+    "bathrooms_number": "Nombre de salles de bain",
+    "bedrooms_number": "Nombre de chambres",
+    "building_type": "Type de bâtiment",
+    "card_item": {
+      "bathrooms": {
+        "one": "1 salle de bain",
+        "two": " salles de bain",
+        "more_than_two": "Plus que 2 salles de bain"
+      },
+      "bedrooms": {
+        "one": "1 chambre",
+        "two_four": " chambres",
+        "more_than_four": "Plus que 4 chambres"
+      },
+      "dining_room": "Salle à manger",
+      "fireplace": "Cheminée",
+      "garage": "Garage",
+      "garden": "Jardin",
+      "other_characteristics": "Autres caractéristiques",
+      "swimming_pool": "Piscine"
+    },
+    "catalog": "Description détaillée",
+    "ccd": "Ccd",
+    "click_to_download": "Cliquer pour télécharger",
+    "construction_age": "Âge de la construction",
+    "cost_per_housing": "Coût par logement (CPL)",
+    "down_payment_required": "Mise de fonds nécessaire",
+    "economic_value": "Valeur économique",
+    "gross_revenue_multiplier": "Multiplicateur de revenu brut (MRB)",
+    "has_dining_room": "Avec salle à manger?",
+    "has_fireplace": "Avec cheminée?",
+    "has_garage": "Avec garage?",
+    "has_garden": "Avec jardin?",
+    "has_swimming_pool": "Avec piscine?",
+    "housing_descriptions": "Description des logements",
+    "maximum_loan": "Prêt maximal",
+    "net_income_multiplier": "Multiplicateur de revenu net (MRN)",
+    "occupation_date": "Date d'occupation",
+    "overall_rate_update": "Taux global d'actualisation (TGA)",
+    "price_ranges": "Gammes de prix",
+    "property_type": "Type de propriété",
+    "search_result": {
+      "bathrooms_number": "Nombre de salles de bain: ",
+      "bedrooms_number": "Nombre de chambres: ",
+      "message_no_items_exist": "Aucun élément n'existe pour l'instant, merci de nous rendre visite une fois le problème résolu. Merci.",
+      "message_no_result_matches": "Désolé, nous n'avons pas de propriétés correspondant à ces critères:",
+      "message_try_with_other_criteria": "Essayez avec d'autres critères!",
+      "nothing_found": "Aucun résultat trouvé!",
+      "building_type": "Type de bâtiment: ",
+      "construction_age": "Âge de la construction: ",
+      "price_ranges": "Gammes de prix: ",
+      "property_type": "Type de propriété: ",
+      "searched_city": "Ville cherchée: ",
+      "searched_word": "Etiquete cherchée: ",
+      "status": "Statut: ",
+      "with_dining_room": "Avec salle à manger.",
+      "with_fireplace": "Avec cheminée.",
+      "with_garage": "Avec garage.",
+      "with_garden": "Avec jardin.",
+      "with_swimming_pool": "Avec piscine."
+    },
+    "status": "Statut"
+  },
+  "property": {
+    "description": "Description",
+    "general_information": "Informations générales",
+    "lot_size": "Taille",
+    "print_version": "Version imprimée",
+    "price": "Prix",
+    "print_property": "Imprimer la propriété",
+    "property": "Propriété",
+    "request_for_information": "Demande d'informations"
+  },
+  "property_details_print": {
+    "contact": "Contact",
+    "front_view_alt": "La vue de face de la propriété",
+    "photos": "Photos",
+    "property_alt": "Propriété"
+  },
+  "testimonial": {
+    "add_testimonial": "Ajouter un témoignage",
+    "no_testimonial": "Il n'y a aucun témoignage pour l'instant!",
+    "testimonial": "Témoignage"
+  },
+  "useful_links": {
+    "no_useful_link": "Il n'y a aucun lien utile pour l'instant!",
+    "guides": "Guides"
+  }
+}
