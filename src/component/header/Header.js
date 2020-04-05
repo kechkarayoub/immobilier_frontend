@@ -7,7 +7,7 @@ import btSellers from '../images/header/bt-sellers.png';
 import btTestimonials from '../images/header/bt-testimonial.png';
 import headerBg from '../images/header/header_bg.jpg';
 import LanguagesList from '../utils/LanguagesList';
-import logo from '../images/logo.jpg';
+import logo from '../images/logo.png';
 import React, { Component } from 'react';
 import realtor_img from '../images/header/realtor_img.jpg';
 import store from 'store';
