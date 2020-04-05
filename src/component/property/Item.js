@@ -71,7 +71,7 @@ const Item = (props) => (
                     }
                 </div>
                 <div className="price-property">
-                    {props.item.price}$
+                    {props.item.price} DH
                 </div>
             </div>
         </Link>

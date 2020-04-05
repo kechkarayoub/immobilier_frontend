@@ -61,7 +61,7 @@ class PropertyDetailsPrint extends Component {
                                     <div className="title">{property.label}</div>
                                     <div className="address_price">
                                         <div className="address">{property.address}</div>
-                                        <div className="price">{property.price}$</div>
+                                        <div className="price">{property.price} DH</div>
                                     </div>
                                     <div className="property_details_to_print_map-information">
                                         {is_maps_active && property.image_map &&
@@ -104,13 +104,13 @@ class PropertyDetailsPrint extends Component {
                                             {property.annual_income &&
                                                 <div className="annual_income">
                                                     <div className="key">{this.props.t('properties.annual_income')}: </div>
-                                                    <div className="value">{property.annual_income}$</div>
+                                                    <div className="value">{property.annual_income} DH</div>
                                                 </div>
                                             }
                                             {property.cost_per_housing &&
                                                 <div className="cost_per_housing">
                                                     <div className="key">{this.props.t('properties.cost_per_housing')}: </div>
-                                                    <div className="value">{property.cost_per_housing}$</div>
+                                                    <div className="value">{property.cost_per_housing} DH</div>
                                                 </div>
                                             }
                                             {property.gross_revenue_multiplier &&
@@ -140,7 +140,7 @@ class PropertyDetailsPrint extends Component {
                                             {property.economic_value &&
                                                 <div className="economic_value">
                                                     <div className="key">{this.props.t('properties.economic_value')}: </div>
-                                                    <div className="value">{property.economic_value}$</div>
+                                                    <div className="value">{property.economic_value} DH</div>
                                                 </div>
                                             }
                                             {property.maximum_loan &&
@@ -152,7 +152,7 @@ class PropertyDetailsPrint extends Component {
                                             {property.down_payment_required &&
                                                 <div className="down_payment_required">
                                                     <div className="key">{this.props.t('properties.down_payment_required')}: </div>
-                                                    <div className="value">{property.down_payment_required}$</div>
+                                                    <div className="value">{property.down_payment_required} DH</div>
                                                 </div>
                                             }
                                             <div className="item_status">

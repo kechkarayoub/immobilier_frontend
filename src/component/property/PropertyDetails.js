@@ -99,7 +99,7 @@ class PropertyDetails extends Component {
                                 </div>
                                 <div className="property_price">
                                     <div className="key">{this.props.t('property.price')}: </div>
-                                    <div className="value">{property.price}$</div>
+                                    <div className="value">{property.price} DH</div>
                                 </div>
                                 <div className="property_short_description">
                                     {property.short_description}
@@ -125,13 +125,13 @@ class PropertyDetails extends Component {
                                     {property.annual_income &&
                                         <div className="annual_income">
                                             <div className="key">{this.props.t('properties.annual_income')}: </div>
-                                            <div className="value">{property.annual_income}$</div>
+                                            <div className="value">{property.annual_income} DH</div>
                                         </div>
                                     }
                                     {property.cost_per_housing &&
                                         <div className="cost_per_housing">
                                             <div className="key">{this.props.t('properties.cost_per_housing')}: </div>
-                                            <div className="value">{property.cost_per_housing}$</div>
+                                            <div className="value">{property.cost_per_housing} DH</div>
                                         </div>
                                     }
                                     {property.gross_revenue_multiplier &&
@@ -161,7 +161,7 @@ class PropertyDetails extends Component {
                                     {property.economic_value &&
                                         <div className="economic_value">
                                             <div className="key">{this.props.t('properties.economic_value')}: </div>
-                                            <div className="value">{property.economic_value}$</div>
+                                            <div className="value">{property.economic_value} DH</div>
                                         </div>
                                     }
                                     {property.maximum_loan &&
@@ -173,7 +173,7 @@ class PropertyDetails extends Component {
                                     {property.down_payment_required &&
                                         <div className="down_payment_required">
                                             <div className="key">{this.props.t('properties.down_payment_required')}: </div>
-                                            <div className="value">{property.down_payment_required}$</div>
+                                            <div className="value">{property.down_payment_required} DH</div>
                                         </div>
                                     }
                                     <div className="item_status">
