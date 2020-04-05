@@ -7,8 +7,8 @@ export const fakeGlobalParams = {
         tel: "xxxxxxxxxx",
         fax: "xxxxxxxxxx",
         position: {
-            gps_latitude: 35.50866990,
-            gps_longitude: -33.55399250,
+            gps_latitude: 33.477550,
+            gps_longitude: -7.956865,
         }
     },
     selects_choices: {
@@ -172,8 +172,8 @@ export const fakeHeaderParams = {
         tel: "xxxxxxxxxx",
         fax: "xxxxxxxxxx",
         position: {
-            gps_latitude: 35.50866990,
-            gps_longitude: -33.55399250,
+            gps_latitude: 33.477550,
+            gps_longitude: -7.956865,
         }
     },
     langue_label: "Français",

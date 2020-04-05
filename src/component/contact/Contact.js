@@ -29,8 +29,8 @@ class Contact extends Component {
                         <MiniCardContact realtor_data={realtor_data} added_class=" contact_page"/>
                         {realtor_data.position &&
                             <MapContainer
-                                latitude={realtor_data.position.gps_latitude || 45.474459}
-                                longitude={realtor_data.position.gps_longitude || -73.470234}
+                                latitude={realtor_data.position.gps_latitude || 33.477550}
+                                longitude={realtor_data.position.gps_longitude || -7.956865}
                                 added_class=" contact_page"
                                 t={this.props.t}
                                 is_not_property={true}
